@@ -1,1 +1,1 @@
-# BudgetControl
+# coding-project-template
